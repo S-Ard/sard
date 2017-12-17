@@ -18,8 +18,8 @@ nav{
 	line-height: 80px;
 }
 nav ul {
-	float: right;
-	margin-right: 30px;
+	text-align: center;
+
 }
 
 nav ul li{
